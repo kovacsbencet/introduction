@@ -10,6 +10,11 @@ A fully functional file storage application that is hosted on a VPS.
 
 #### Features
 
+* Stack
+    * NodeJS (Typescript)
+    * EJS templates
+    * CSS & Javascript
+
 * Authentication
     * Registration, Login, E-mail verification, Logout 
     * Two Factor Authentication per e-mail (nodemailer) or via SMS (Twilio API)
@@ -23,5 +28,15 @@ A fully functional file storage application that is hosted on a VPS.
     * Redis for session storage
     * MySQL is hosted on the VPS, Redis in Cloud Service Environment
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+#### Rental Apartment Manager
+
+#### 🔗 CHECK OUT: (https://github.com/kovacsbencet/rental-apartment-manager)
+
+* Stack
+    * NextJS
+    * MySQL (Prisma)
+   
+* Functionalites
+    * Manage rental apartments
+    * Add issues and tasks to each apartment
+    * Search and sort for apartments
